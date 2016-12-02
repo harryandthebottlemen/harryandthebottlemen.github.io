@@ -77,8 +77,8 @@ iframe {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: $AmericanTypewriter;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -107,7 +107,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $white;
 }
 
 p {
@@ -115,11 +115,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $white;
   }
 }
 
@@ -163,7 +163,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $white;
 }
 
 // Specify the color of the selection
