@@ -263,7 +263,7 @@ body {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Orbitron', sans-serif;
   font-size: 18px;
 
   @include mobile {
