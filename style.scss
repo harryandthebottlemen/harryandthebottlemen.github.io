@@ -18,18 +18,62 @@ html {
 }
 
 body {
-")	background-image: url("http://ministerdifferent.com/wp-content/uploads/2015/08/Brick-Background-600x338.png;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    background-image: url("https://static1.squarespace.com/static/55cb7e14e4b036603e05111e/t/55d9f741e4b0df64371a18f4/1440347973113/Grey-website-background.png?format=2500w");
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
 }
-
 
 table {
 	width: 100%;
 	margin-bottom: 15px;
-	box_shadow: inset 0 0px 5px 0 rgba(0, 0, 0, 0.5);
+	box-shadow: inset 0 0px 5px 0 rgba(0, 0, 0, 0.5);
 	border-radius: 5px;
 	font-family: 'Orbitron', sans-serif;
+}
+table, td {
+    border-radius: 5px;
+    border-collapse: collapse;
+    padding: 8px;
+    padding-top: 15px;
+    font-family: 'Orbitron', sans-serif;
+    text-align: left;
+    font-size: 16px;
+    //margin-left: 5px;
+}
+
+table, th {
+    border-radius: 5px;
+    border-collapse: collapse;
+    padding: 8px;
+    padding-top: 15px;
+   // background: linear-gradient(to bottom, #ffffff, #f2f2f2);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+}
+
+iframe {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+	margin-bottom: 15px;
+	width: 100%;
+	border-radius: 5px;
+}
+
+.switcherItem {
+    color: #333;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  border-radius: 10px;
+  padding: 0 10px;
+  padding-top: 2px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.78);
+  box-shadow: inset 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 
 h1, h2, h3, h4, h5, h6 {
