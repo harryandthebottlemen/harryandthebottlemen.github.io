@@ -32,6 +32,8 @@ published: true
 </table>
 
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/MrnASJHdcRA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <table>
   <tr>
     <td>Lesson Review</td>
