@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td></td>
+    <td>Week 8 - Adding Profit on Sheets</td>
     <td> Date:  </td>
-    <td></td>
+    <td>27/1/17</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td></td>
+    <td>I had my items, but no profit or cost to buy.</td>
   </tr>
   <tr>
     <td>Target for this </td>
-    <td></td>
+    <td>To have a profit and cost.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes.</td>
   </tr>
 </table>
 
@@ -42,19 +42,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>I listened to the teacher and completed lots of the work set. I also used lots of my past Knowledge to help me complete to work effectively. I used past lesson work and expanded it to make my shop better. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>I was focused most of the lesson on the work and completed my target. I did get confused a few times in why it i wasn't working, but after checking my work i discovered what went  wrong and corrected it. This made my work, work well. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Next time i will continue to focus on the work and expand my shop. I will try and add the costs of employees and properties. </td>
   </tr>
 </table>
 
