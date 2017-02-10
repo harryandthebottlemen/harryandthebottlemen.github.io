@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>Week 9 - EXPANDING SHOP</td>
+    <td>Week 10 - CLOSING THE SHOP</td>
     <td> Date:  </td>
-    <td>3/2/17</td>
+    <td>10/2/17</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had profit and cost.</td>
+    <td>My shop had many products and worked really well.</td>
   </tr>
   <tr>
     <td>Target for this </td>
-    <td>To add employers and more products.</td>
+    <td>To finish it all off.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -42,19 +42,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I worked on my own all lesson and used my past Knowledge to complete everything I wanted to. This led me to make a very large profit.</td>
+    <td>I made a few corrections to parts that were not working too well. I also added graphs. This let me see what i made lots of profit on, and so i can get more in stock. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I did very well this lesson and completed everything, while being focused.</td>
+    <td>I did very well this lesson and completed everything, while being focused and sing what was wrong.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time i will continue to focus on the work and expand my shop. I will try and add discount codes.</td>
+    <td>I will in future continue to work hard and expand my learning.</td>
   </tr>
 </table>
 
