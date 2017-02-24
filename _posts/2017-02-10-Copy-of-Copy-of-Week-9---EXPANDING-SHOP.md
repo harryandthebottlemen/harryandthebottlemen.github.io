@@ -1,5 +1,5 @@
 ---
-title: Copy of Copy of Week 9 - EXPANDING SHOP
+title: Week 10 - STARTING TO CLOSE SHOP
 layout: post
 author: harry.whiting
 permalink: /copy-of-copy-of-week-9---expanding-shop/
