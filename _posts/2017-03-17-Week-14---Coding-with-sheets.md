@@ -32,6 +32,8 @@ published: true
 </table>
 
 
+![image alt text]({{ site.url }}/public/dNJe5XGQflV9QA5cwJqvKw_img_0.png)
+
 <table>
   <tr>
     <td>Lesson Review</td>
