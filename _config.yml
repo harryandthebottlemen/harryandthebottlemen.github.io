@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: McCann The Man
+name: If You Wanna
 
 # Short bio or description (displayed in the header)
-description: Catfish are classss
+description: THE VACCINES MATE
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://static.gigwise.com/artists/catfish_21_LiveGallery_CoverPhoto_750.jpg
-#
+avatar: http://payload529.cargocollective.com/1/12/402611/12888953/Vaccines-Logo-2-Square-01_670.jpg
 # Flags below are optional
 #
 
@@ -21,11 +20,11 @@ footer-links:
   facebook:
   flickr:
   github: 
-  instagram: catfishandthebottlemen
+  instagram: thevaccines
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: thebottlemen
+  twitter: thevaccines
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
