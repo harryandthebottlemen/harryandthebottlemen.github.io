@@ -1,8 +1,8 @@
 ---
-title: Week 15 - Cleaning Up
+title: Week 1 - RESTARTING
 layout: post
-author: harry.whiting
-permalink: /week-15---cleaning-up/
+author: Harry Whiting
+permalink: /week-15---RESTARTING/
 source-id: 1bth3pabs4yIbgo4hN0_QvnGxosY28O9kuzqp1IU2-N0
 published: true
 ---
