@@ -1,7 +1,7 @@
 ---
-title: Week 16 - Making a simpler code
+title: WEEK 1 
 layout: post
-author: harry.whiting
+author: HARRY WHITING
 permalink: /week-16---making-a-simpler-code/
 source-id: 1onq3HJqI7oWk5jR7DOI-LdUxhQDXSQeFVa4_CP1jOj8
 published: true
